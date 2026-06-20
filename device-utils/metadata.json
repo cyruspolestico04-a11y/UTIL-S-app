@@ -1,6 +1,0 @@
-{
-  "name": "Util'S",
-  "description": "A device management utility for installed applications and storage optimization check.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
